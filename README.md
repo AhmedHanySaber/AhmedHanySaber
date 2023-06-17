@@ -1,10 +1,4 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
-## 🚀 About Me
+# 🚀 About Me
 Hi there! My name is Ahmed Hany, and I'm a software engineer and instructor with a passion for teaching and mobile development.
 
 I've been working in the tech industry for 2 number of years, and during that time, I've had the opportunity to work on a variety of exciting projects. From developing mobile apps for iOS and Android to teaching others how to code, I've developed a deep understanding of what it takes to create high-quality software that meets the needs of users.
