@@ -13,7 +13,7 @@ If you're interested in mobile development, software engineering, or just want t
 
 
 ## 🛠 Skills
-C/C++,dart,Flutter,Kotlin,Android,SQL,Arduino
+C/C++,dart,Flutter,Android,SQL,Arduino
 
 
 
