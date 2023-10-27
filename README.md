@@ -1,7 +1,7 @@
 # 🚀 About Me
 Hi there! My name is Ahmed Hany, and I'm a software engineer and instructor with a passion for teaching and mobile development.
 
-I've been working in the tech industry for 2 number of years, and during that time, I've had the opportunity to work on a variety of exciting projects. From developing mobile apps for iOS and Android to teaching others how to code, I've developed a deep understanding of what it takes to create high-quality software that meets the needs of users.
+I've been working in the tech industry for 1 year, and during that time, I've had the opportunity to work on a variety of exciting projects. From developing mobile apps for iOS and Android to teaching others how to code, I've developed a deep understanding of what it takes to create high-quality software that meets the needs of users.
 
 As an instructor, I believe in empowering others to learn and grow. Whether I'm teaching a class, creating online tutorials, or mentoring junior developers, I strive to create an environment that fosters curiosity and encourages experimentation. I believe that anyone can learn to code, and I'm committed to helping others unlock their full potential.
 
@@ -13,7 +13,7 @@ If you're interested in mobile development, software engineering, or just want t
 
 
 ## 🛠 Skills
-C/C++,dart,Flutter,SQL,Arduino
+C++,dart,Flutter,Arduino
 
 
 
