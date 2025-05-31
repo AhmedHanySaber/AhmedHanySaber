@@ -7,15 +7,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=8000&pause=1000&center=true&vCenter=true&width=445&height=60&lines=Software+Engineer;Instructor;Passionate+about+teaching+and+mobile+development" alt="Typing SVG" /></a></a></p> 
 
 # 🚀 About Me
-Hi there! My name is Ahmed Hany, and I'm a software engineer and instructor with a passion for teaching and mobile development.
+Hi there! My name is Ahmed Hany, and I'm a software engineer and instructor with a passion for teaching and Software engineering.
 
-I've been working in the tech industry for 2 years, and during that time, I've had the opportunity to work on a variety of exciting projects. From developing mobile apps for iOS and Android to teaching others how to code, I've developed a deep understanding of what it takes to create high-quality software that meets users' needs.
+I've been working in the tech industry for 3 years, and during that time, I've had the opportunity to work on a variety of exciting projects. From developing mobile apps for iOS and Android to teaching others how to code, I've developed a deep understanding of what it takes to create high-quality software that meets users' needs.
 
 As an instructor, I believe in empowering others to learn and grow. Whether I'm teaching a class, creating online tutorials, or mentoring junior developers, I strive to create an environment that fosters curiosity and encourages experimentation.
 
 In my free time, I enjoy tinkering with new technologies, exploring the outdoors, and spending time with my family. I'm also an avid reader and love discovering new books on a wide range of topics.
 
-If you're interested in mobile development, or software engineering, or just want to connect with a fellow tech enthusiast, feel free to reach out! I'm always looking for new opportunities to collaborate and learn from others.
+If you're interested in mobile development, software engineering, or want to connect with a fellow tech enthusiast, feel free to reach out! I'm always looking for new opportunities to collaborate and learn from others.
 
 ## 🛠 Skills
 C++, Dart, Flutter, Arduino
