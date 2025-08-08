@@ -20,7 +20,7 @@ In my free time, I enjoy tinkering with new technologies, exploring the outdoors
 If you're interested in mobile development, software engineering, or want to connect with a fellow tech enthusiast, feel free to reach out! I'm always looking for new opportunities to collaborate and learn from others.
 
 ## 🛠 Skills
-C++, Dart, Flutter, Arduino
+Dart, Flutter, NodeJS, Flask, Arduino, C/C++
 
 ## 🔗 Links
 [Ahmed Hany GitHub](https://github.com/AhmedHany)
