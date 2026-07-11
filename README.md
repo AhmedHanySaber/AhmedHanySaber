@@ -1,94 +1,209 @@
+<h1 align="center">Hi 👋, I'm Ahmed Hany</h1>
+
 <h3 align="center">
-  Hi, I'm Ahmed Hany 👋
+Software Engineer • Backend & Flutter • Building Production Systems
 </h3>
 
 <p align="center">
-  <b>Software Engineer | Full System Builder | Clean Architecture Advocate</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=5000&pause=1000&center=true&vCenter=true&width=520&lines=Building+scalable+systems+end-to-end;Flutter+%7C+NestJS+%7C+Clean+Architecture;System+Design+%7C+Design+Patterns+%7C+DSA" />
+Building products from architecture → implementation → deployment
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I’m a **Software Engineer** focused on building **scalable, maintainable systems** across both mobile and backend.
+I'm a **Software Engineer** passionate about turning complex business ideas into production software.
 
-I work with **Flutter** for mobile and **NestJS** for backend, with a strong focus on:
-- Clean Architecture & modular design
-- Scalable backend systems
-- Maintainable and testable codebases
+Over the last few years I've built and shipped systems across multiple industries including:
 
-I don’t just build features — I design systems with **structure, performance, and long-term scalability in mind**.
+- 🛒 Online Marketplaces
+- 🚖 School Transportation Platforms
+- 🎓 Learning Management Systems
+- 🏥 Healthcare Platforms
 
----
+I enjoy solving backend problems involving **system design, real-time communication, scalable APIs, authentication, payments, and database architecture**, while also building polished cross-platform mobile applications with Flutter.
 
-## 🧠 Core Expertise
-
-- **System Design** (scalable architectures, API design, modular systems)
-- **Design Patterns & SOLID Principles**
-- **Data Structures & Algorithms (DSA)**
-- **Database Design & Optimization**
-- **Clean Code & Code Maintainability**
+Beyond writing code, I enjoy understanding business requirements, designing maintainable systems, working directly with clients, and leading engineering teams to ship real products.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Production Projects
 
-### 💻 Mobile
+## 🚖 T-Ride
+
+School transportation platform connecting schools, parents, students, and drivers.
+
+**Highlights**
+
+- Led a team of 10 engineers
+- Took ownership after the original backend team left
+- Built real-time ride tracking
+- Socket.IO communication
+- Redis integration
+- Google Maps
+- Notifications
+- Payments
+- Android & iOS production releases
+
+**Tech**
+
+Flutter • Node.js • Socket.IO • Redis • MongoDB • Google Maps • Firebase
+
+---
+
+## 🛒 Foxs Marketplace
+
+Marketplace platform similar to Dubizzle.
+
+**Highlights**
+
+- Designed backend architecture
+- Built Flutter application
+- Dynamic categories & filters
+- Similar listing notifications
+- Notification engine redesign
+- Worked directly with clients on product requirements
+
+**Tech**
+
+Flutter • Node.js • Express • MySQL • Sequelize • Firebase
+
+🌐 https://foxsmarketplace.com/
+
+---
+
+## 🎓 Gowa El Manhag
+
+Learning Management System supporting Egyptian education.
+
+**Highlights**
+
+- 7 Flask microservices
+- PostgreSQL
+- Course & quiz engine
+- Real-time chat
+- Payments
+- Docker deployment
+- Hostinger VPS
+
+**Tech**
+
+Python • Flask • PostgreSQL • Flutter • Docker • Socket.IO • Paymob
+
+🌐 https://www.gowaelmanhgedu.com/
+
+---
+
+## 🏥 Nursy
+
+Healthcare platform connecting patients with nurses.
+
+**Highlights**
+
+- Solo developer
+- Migrated from Firebase to Node.js backend
+- Real-time nurse tracking
+- Live sessions
+- Wallet & payments
+- Provider matching
+- Admin dashboard
+
+**Tech**
+
+Flutter • Node.js • Prisma • MySQL • Socket.IO • Google Maps • Paymob • Next.js
+
+📱 https://play.google.com/store/apps/details?id=com.nursy.app
+
+---
+
+# 🛠 Tech Stack
+
+## Backend
+
+- Node.js
+- NestJS
+- Express.js
+- Flask
+- REST APIs
+- Socket.IO
+- Prisma
+- Sequelize
+
+## Mobile
+
 - Flutter
 - Dart
+- BLoC
+- Firebase
 
-### 🌐 Backend
-- NestJS
-- Node.js
-- REST APIs
+## Frontend
 
-### 🗄 Databases
+- React
+- Next.js
+- TypeScript
+
+## Databases
+
 - MySQL
+- PostgreSQL
+- MongoDB
+- Redis
 - Firebase Realtime Database
 
-### ⚙️ Embedded / IoT
-- Arduino
-- ESP32 / ESP8266
-- C / C++
+## DevOps & Cloud
 
-### 🧩 Architecture & Tools
-- BLoC
-- MVVM
+- Docker
+- Nginx
+- Google Cloud Platform
+- VPS Deployment
+- Linux
+
+---
+
+# 🧠 Areas of Interest
+
+I enjoy building systems involving:
+
+- Backend Architecture
+- System Design
+- Database Design
+- Authentication & Authorization
+- Real-time Systems
+- Payment Integrations
+- Marketplace Platforms
+- Location-based Services
 - Clean Architecture
-- Git & GitHub
+- Design Patterns
+- Scalable APIs
 
 ---
 
-## 📌 Current Focus
+# 🌱 Currently Learning
 
-🚧 Currently building and scaling systems that combine:
-- Mobile applications (Flutter)
-- Backend services (NestJS)
-- Real-time data & integrations
+I'm currently focused on improving my engineering depth in:
 
-With a strong focus on **architecture, performance, and real-world usability**.
+- Distributed Systems
+- Advanced Backend Engineering
+- Performance Optimization
+- System Design
+- DSA & Competitive Programming
 
----
-
-## 🤝 Opportunities
-
-- 💼 Open to: **Backend / Full-Stack / Mobile Roles**
-- 🤝 Available for: **Freelance & Collaboration**
+while preparing for **FAANG-level Software Engineering interviews**.
 
 ---
 
-## 📊 GitHub Stats
+# 🤝 Let's Connect
 
-![](https://github-readme-stats.vercel.app/api?username=AhmedHanySaber&theme=default&hide_border=false&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedHanySaber&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHanySaber&layout=compact)
+📧 Email: **ah250296@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/ahmed-hany-51193a246/
+
+🐙 GitHub
+
+https://github.com/AhmedHanySaber
 
 ---
 
-<p align="center">
-  <img src="images/snake.svg" />
-</p>
+> *"I believe great software starts with understanding the business problem before writing the first line of code."*
