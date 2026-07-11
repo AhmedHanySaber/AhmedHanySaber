@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hany</h1>
-
-<h3 align="center">
-Software Engineer • Backend & Flutter • Building Production Systems
-</h3>
+<h1 align="center">
+Hi 👋 I'm Ahmed Hany
+</h1>
 
 <p align="center">
-Building products from architecture → implementation → deployment
+<b>Software Engineer | Backend & Flutter | Building Production Systems</b>
+</p>
+
+<p align="center">
+From business requirements to production deployment.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=5000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Production+Software;Marketplace+%E2%80%A2+LMS+%E2%80%A2+Healthcare+%E2%80%A2+Transportation;Flutter+%E2%80%A2+Node.js+%E2%80%A2+Flask;Real-time+Systems+%E2%80%A2+Payments+%E2%80%A2+Cloud" />
 </p>
 
 ---
